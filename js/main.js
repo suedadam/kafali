@@ -29,8 +29,8 @@ $(document).ready(function(){
 
     $('#countdown_dashboard').countDown({
         targetDate: {
-            'day':      28,
-            'month':    02,
+            'day':      15,
+            'month':    04,
             'year':     2018,
             'hour':     23,
             'min':      59,
